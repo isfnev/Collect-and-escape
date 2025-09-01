@@ -650,6 +650,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 570957563759618423, guid: c1da1d677d6417645b8e5c23858a35e4, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1434680059135129260, guid: c1da1d677d6417645b8e5c23858a35e4, type: 3}
       propertyPath: m_Name
       value: Collectables (4)
@@ -1001,6 +1005,14 @@ PrefabInstance:
     - target: {fileID: 1449082379049265420, guid: 49301c0c4b5847f4599cb7c9cfef15fa, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7241723749511010578, guid: 49301c0c4b5847f4599cb7c9cfef15fa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9166791960192503161, guid: 49301c0c4b5847f4599cb7c9cfef15fa, type: 3}
+      propertyPath: smoothSpeed
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
